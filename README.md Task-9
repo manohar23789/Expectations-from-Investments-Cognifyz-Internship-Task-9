@@ -1,0 +1,20 @@
+## Task 9: Expectations from Investments
+
+### Objective: Summarize participants' expectations from investments.
+
+### Description: This task analyzes the `Expect` column to identify and summarize the common expectations participants have from their investments.
+
+### Analysis Performed
+- Loaded the dataset using Pandas
+- Examined the `Expect` column
+- Calculated the frequency of each investment expectation
+- Calculated the percentage of participants for each expectation
+- Created a summary table
+- Listed and described the common investment expectations
+- Identified the most common investment expectation
+- Created a bar chart to visualize investment expectations
+
+### Technologies Used
+- Python
+- Pandas
+- Matplotlib
